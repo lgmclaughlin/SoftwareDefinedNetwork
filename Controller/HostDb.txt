@@ -1,0 +1,4 @@
+host1.team5.4516.cs.wpi.edu hi,iamhost1
+host2.team5.4516.cs.wpi.edu hi,iamhost2
+host3.team5.4516.cs.wpi.edu hi,iamhost3
+host4.team5.4516.cs.wpi.edu hi,iamhost4
